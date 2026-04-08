@@ -1,4 +1,3 @@
-#Lista-de-Estrutura-de-Dados
 
 Lista de avaliação prática de Estrutura de Dados
 
