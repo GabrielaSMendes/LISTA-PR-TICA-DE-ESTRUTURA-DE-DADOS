@@ -1,14 +1,13 @@
-LISTA DE AVALIAÇÃO PRÁTICA DE ESTRUTURA DE DADOS
+Lista de avaliação prática de Estrutura de Dados
+Professor: Gabriel Passos
 
-PROFESSOR: GABRIEL PASSOS
+Integrantes do grupo:
 
-INTEGRANTES DO GRUPO:
-
-Caetano MikuliS
-Gabriela Mendes
-Gustavo Kenzo
-Ryan do Vale
-Leonardo Sampaio
+- Caetano MikuliS
+- Gabriela Mendes
+- Gustavo Kenzo
+- Ryan do Vale
+- Leonardo Sampaio
 
 PROJETO 1 – Árvores e Balanceamento
 
