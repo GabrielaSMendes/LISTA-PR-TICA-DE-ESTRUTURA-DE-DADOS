@@ -1,26 +1,29 @@
-
-Lista de avaliação prática de Estrutura de Dados
+# Lista de avaliação prática de Estrutura de Dados
 
 Professor: Gabriel Passos
 
 Integrantes do grupo:
 
-- Caetano Mikulis
-- Gabriela Mendes
-- Gustavo Kenzo
-- Ryan do Vale
-- Leonardo Sampaio
+Caetano Mikulis
+Gabriela Mendes
+Gustavo Kenzo
+Ryan do Vale
+Leonardo Sampaio
 
-Projeto 1 – Árvores e Balanceamento
+## Instruções de execução
 
-Projeto 2 - Sistemas de Busca
+**Java:** JDK **21** (o projeto do Eclipse está configurado para Java SE 21).
 
-Projeto 3 - Benchmark de Ordenação 
+**No Eclipse:** `File` → `Import…` → `General` → `Existing Projects into Workspace` → `Next` → em **Root directory** escolha a pasta raiz deste repositório → `Finish`. Use o botão **Run** com o projeto selecionado.
 
-Instruções para Execução:
+### Projeto 1 – Árvores e Balanceamento
 
-1.
 
-2.
 
-3.
+### Projeto 2 – Sistemas de busca
+
+No menu principal, escolha **2**: benchmark que mede busca **sequencial**, **binária** (vetor ordenado) e **árvore BST**; siga as perguntas no console (ou use os valores padrão).
+
+### Projeto 3 – Benchmark de ordenação
+
+
