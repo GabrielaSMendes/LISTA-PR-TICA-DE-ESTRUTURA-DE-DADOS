@@ -16,11 +16,3 @@ Projeto 1 – Árvores e Balanceamento
 Projeto 2 - Sistemas de Busca
 
 Projeto 3 - Benchmark de Ordenação 
-
-Instruções para Execução:
-
-1.
-
-2.
-
-3.
